@@ -1,0 +1,12 @@
+{
+    "name": "krishna/desafio-jb",
+    "require": {
+        "behat/behat": "^3.5"
+    },
+    "authors": [
+        {
+            "name": "Krishna Neliê",
+            "email": "krishna.nelie@gmail.com"
+        }
+    ]
+}
